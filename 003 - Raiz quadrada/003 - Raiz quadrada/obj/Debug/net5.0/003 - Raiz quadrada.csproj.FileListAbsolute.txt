@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\bin\Debug\net5.0\003 - Raiz quadrada.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\bin\Debug\net5.0\003 - Raiz quadrada.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\bin\Debug\net5.0\003 - Raiz quadrada.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\bin\Debug\net5.0\003 - Raiz quadrada.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\bin\Debug\net5.0\003 - Raiz quadrada.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\bin\Debug\net5.0\003 - Raiz quadrada.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\obj\Debug\net5.0\003 - Raiz quadrada.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\obj\Debug\net5.0\003 - Raiz quadrada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\obj\Debug\net5.0\003 - Raiz quadrada.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\obj\Debug\net5.0\003 - Raiz quadrada.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\obj\Debug\net5.0\003 - Raiz quadrada.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\obj\Debug\net5.0\003 - Raiz quadrada.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\obj\Debug\net5.0\refint\003 - Raiz quadrada.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\obj\Debug\net5.0\003 - Raiz quadrada.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\obj\Debug\net5.0\003 - Raiz quadrada.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\003 - Raiz quadrada\003 - Raiz quadrada\obj\Debug\net5.0\ref\003 - Raiz quadrada.dll

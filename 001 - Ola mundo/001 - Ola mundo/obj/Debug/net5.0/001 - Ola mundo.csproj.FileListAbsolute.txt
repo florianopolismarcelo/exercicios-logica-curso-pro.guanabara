@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\bin\Debug\net5.0\001 - Ola mundo.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\bin\Debug\net5.0\001 - Ola mundo.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\bin\Debug\net5.0\001 - Ola mundo.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\bin\Debug\net5.0\001 - Ola mundo.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\bin\Debug\net5.0\001 - Ola mundo.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\bin\Debug\net5.0\001 - Ola mundo.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\obj\Debug\net5.0\001 - Ola mundo.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\obj\Debug\net5.0\001 - Ola mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\obj\Debug\net5.0\001 - Ola mundo.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\obj\Debug\net5.0\001 - Ola mundo.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\obj\Debug\net5.0\001 - Ola mundo.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\obj\Debug\net5.0\001 - Ola mundo.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\obj\Debug\net5.0\refint\001 - Ola mundo.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\obj\Debug\net5.0\001 - Ola mundo.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\obj\Debug\net5.0\001 - Ola mundo.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\001 - Ola mundo\001 - Ola mundo\obj\Debug\net5.0\ref\001 - Ola mundo.dll

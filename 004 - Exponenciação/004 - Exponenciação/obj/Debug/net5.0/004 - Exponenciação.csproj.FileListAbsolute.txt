@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\bin\Debug\net5.0\004 - Exponenciação.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\bin\Debug\net5.0\004 - Exponenciação.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\bin\Debug\net5.0\004 - Exponenciação.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\bin\Debug\net5.0\004 - Exponenciação.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\bin\Debug\net5.0\004 - Exponenciação.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\bin\Debug\net5.0\004 - Exponenciação.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\obj\Debug\net5.0\004 - Exponenciação.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\obj\Debug\net5.0\004 - Exponenciação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\obj\Debug\net5.0\004 - Exponenciação.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\obj\Debug\net5.0\004 - Exponenciação.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\obj\Debug\net5.0\004 - Exponenciação.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\obj\Debug\net5.0\004 - Exponenciação.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\obj\Debug\net5.0\refint\004 - Exponenciação.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\obj\Debug\net5.0\004 - Exponenciação.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\obj\Debug\net5.0\004 - Exponenciação.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\004 - Exponenciação\004 - Exponenciação\obj\Debug\net5.0\ref\004 - Exponenciação.dll

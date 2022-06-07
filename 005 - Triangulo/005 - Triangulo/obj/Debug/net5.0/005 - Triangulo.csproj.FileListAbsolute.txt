@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\bin\Debug\net5.0\005 - Triangulo.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\bin\Debug\net5.0\005 - Triangulo.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\bin\Debug\net5.0\005 - Triangulo.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\bin\Debug\net5.0\005 - Triangulo.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\bin\Debug\net5.0\005 - Triangulo.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\bin\Debug\net5.0\005 - Triangulo.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\obj\Debug\net5.0\005 - Triangulo.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\obj\Debug\net5.0\005 - Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\obj\Debug\net5.0\005 - Triangulo.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\obj\Debug\net5.0\005 - Triangulo.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\obj\Debug\net5.0\005 - Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\obj\Debug\net5.0\005 - Triangulo.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\obj\Debug\net5.0\refint\005 - Triangulo.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\obj\Debug\net5.0\005 - Triangulo.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\obj\Debug\net5.0\005 - Triangulo.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\005 - Triangulo\005 - Triangulo\obj\Debug\net5.0\ref\005 - Triangulo.dll

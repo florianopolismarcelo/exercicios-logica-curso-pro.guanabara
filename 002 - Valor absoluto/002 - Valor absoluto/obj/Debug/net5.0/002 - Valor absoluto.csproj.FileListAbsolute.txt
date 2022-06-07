@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\bin\Debug\net5.0\002 - Valor absoluto.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\bin\Debug\net5.0\002 - Valor absoluto.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\bin\Debug\net5.0\002 - Valor absoluto.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\bin\Debug\net5.0\002 - Valor absoluto.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\bin\Debug\net5.0\002 - Valor absoluto.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\bin\Debug\net5.0\002 - Valor absoluto.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\obj\Debug\net5.0\002 - Valor absoluto.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\obj\Debug\net5.0\002 - Valor absoluto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\obj\Debug\net5.0\002 - Valor absoluto.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\obj\Debug\net5.0\002 - Valor absoluto.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\obj\Debug\net5.0\002 - Valor absoluto.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\obj\Debug\net5.0\002 - Valor absoluto.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\obj\Debug\net5.0\refint\002 - Valor absoluto.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\obj\Debug\net5.0\002 - Valor absoluto.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\obj\Debug\net5.0\002 - Valor absoluto.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\002 - Valor absoluto\002 - Valor absoluto\obj\Debug\net5.0\ref\002 - Valor absoluto.dll
