@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "013 - Maior ou menor idade/1.0.0": {
+        "runtime": {
+          "013 - Maior ou menor idade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "013 - Maior ou menor idade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

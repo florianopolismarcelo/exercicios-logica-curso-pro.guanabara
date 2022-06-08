@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\bin\Debug\net5.0\009 - Conversao de real para dolar.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\bin\Debug\net5.0\009 - Conversao de real para dolar.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\bin\Debug\net5.0\009 - Conversao de real para dolar.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\bin\Debug\net5.0\009 - Conversao de real para dolar.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\bin\Debug\net5.0\009 - Conversao de real para dolar.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\bin\Debug\net5.0\009 - Conversao de real para dolar.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\obj\Debug\net5.0\009 - Conversao de real para dolar.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\obj\Debug\net5.0\009 - Conversao de real para dolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\obj\Debug\net5.0\009 - Conversao de real para dolar.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\obj\Debug\net5.0\009 - Conversao de real para dolar.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\obj\Debug\net5.0\009 - Conversao de real para dolar.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\obj\Debug\net5.0\009 - Conversao de real para dolar.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\obj\Debug\net5.0\refint\009 - Conversao de real para dolar.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\obj\Debug\net5.0\009 - Conversao de real para dolar.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\obj\Debug\net5.0\009 - Conversao de real para dolar.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\009 - Conversao de real para dolar\009 - Conversao de real para dolar\obj\Debug\net5.0\ref\009 - Conversao de real para dolar.dll

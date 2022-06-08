@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\bin\Debug\net5.0\013 - Maior ou menor idade.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\bin\Debug\net5.0\013 - Maior ou menor idade.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\bin\Debug\net5.0\013 - Maior ou menor idade.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\bin\Debug\net5.0\013 - Maior ou menor idade.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\bin\Debug\net5.0\013 - Maior ou menor idade.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\bin\Debug\net5.0\013 - Maior ou menor idade.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\obj\Debug\net5.0\013 - Maior ou menor idade.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\obj\Debug\net5.0\013 - Maior ou menor idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\obj\Debug\net5.0\013 - Maior ou menor idade.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\obj\Debug\net5.0\013 - Maior ou menor idade.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\obj\Debug\net5.0\013 - Maior ou menor idade.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\obj\Debug\net5.0\013 - Maior ou menor idade.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\obj\Debug\net5.0\refint\013 - Maior ou menor idade.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\obj\Debug\net5.0\013 - Maior ou menor idade.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\obj\Debug\net5.0\013 - Maior ou menor idade.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\013 - Maior ou menor idade\013 - Maior ou menor idade\obj\Debug\net5.0\ref\013 - Maior ou menor idade.dll

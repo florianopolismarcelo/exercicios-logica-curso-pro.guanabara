@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\bin\Debug\net5.0\011 - Imposto do produto.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\bin\Debug\net5.0\011 - Imposto do produto.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\bin\Debug\net5.0\011 - Imposto do produto.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\bin\Debug\net5.0\011 - Imposto do produto.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\bin\Debug\net5.0\011 - Imposto do produto.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\bin\Debug\net5.0\011 - Imposto do produto.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\obj\Debug\net5.0\011 - Imposto do produto.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\obj\Debug\net5.0\011 - Imposto do produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\obj\Debug\net5.0\011 - Imposto do produto.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\obj\Debug\net5.0\011 - Imposto do produto.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\obj\Debug\net5.0\011 - Imposto do produto.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\obj\Debug\net5.0\011 - Imposto do produto.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\obj\Debug\net5.0\refint\011 - Imposto do produto.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\obj\Debug\net5.0\011 - Imposto do produto.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\obj\Debug\net5.0\011 - Imposto do produto.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\011 - Imposto do produto\011 - Imposto do produto\obj\Debug\net5.0\ref\011 - Imposto do produto.dll

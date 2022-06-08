@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\bin\Debug\net5.0\010 - Conversao temperatura EUA-BRA.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\bin\Debug\net5.0\010 - Conversao temperatura EUA-BRA.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\bin\Debug\net5.0\010 - Conversao temperatura EUA-BRA.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\bin\Debug\net5.0\010 - Conversao temperatura EUA-BRA.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\bin\Debug\net5.0\010 - Conversao temperatura EUA-BRA.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\bin\Debug\net5.0\010 - Conversao temperatura EUA-BRA.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\obj\Debug\net5.0\010 - Conversao temperatura EUA-BRA.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\obj\Debug\net5.0\010 - Conversao temperatura EUA-BRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\obj\Debug\net5.0\010 - Conversao temperatura EUA-BRA.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\obj\Debug\net5.0\010 - Conversao temperatura EUA-BRA.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\obj\Debug\net5.0\010 - Conversao temperatura EUA-BRA.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\obj\Debug\net5.0\010 - Conversao temperatura EUA-BRA.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\obj\Debug\net5.0\refint\010 - Conversao temperatura EUA-BRA.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\obj\Debug\net5.0\010 - Conversao temperatura EUA-BRA.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\obj\Debug\net5.0\010 - Conversao temperatura EUA-BRA.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\010 - Conversao temperatura EUA-BRA\010 - Conversao temperatura EUA-BRA\obj\Debug\net5.0\ref\010 - Conversao temperatura EUA-BRA.dll

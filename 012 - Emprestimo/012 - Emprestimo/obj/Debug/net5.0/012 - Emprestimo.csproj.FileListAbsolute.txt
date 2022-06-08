@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\bin\Debug\net5.0\012 - Emprestimo.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\bin\Debug\net5.0\012 - Emprestimo.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\bin\Debug\net5.0\012 - Emprestimo.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\bin\Debug\net5.0\012 - Emprestimo.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\bin\Debug\net5.0\012 - Emprestimo.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\bin\Debug\net5.0\012 - Emprestimo.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\obj\Debug\net5.0\012 - Emprestimo.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\obj\Debug\net5.0\012 - Emprestimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\obj\Debug\net5.0\012 - Emprestimo.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\obj\Debug\net5.0\012 - Emprestimo.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\obj\Debug\net5.0\012 - Emprestimo.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\obj\Debug\net5.0\012 - Emprestimo.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\obj\Debug\net5.0\refint\012 - Emprestimo.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\obj\Debug\net5.0\012 - Emprestimo.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\obj\Debug\net5.0\012 - Emprestimo.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\012 - Emprestimo\012 - Emprestimo\obj\Debug\net5.0\ref\012 - Emprestimo.dll
