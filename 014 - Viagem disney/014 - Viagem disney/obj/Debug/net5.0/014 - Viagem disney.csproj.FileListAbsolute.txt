@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\bin\Debug\net5.0\014 - Viagem disney.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\bin\Debug\net5.0\014 - Viagem disney.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\bin\Debug\net5.0\014 - Viagem disney.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\bin\Debug\net5.0\014 - Viagem disney.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\bin\Debug\net5.0\014 - Viagem disney.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\bin\Debug\net5.0\014 - Viagem disney.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\obj\Debug\net5.0\014 - Viagem disney.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\obj\Debug\net5.0\014 - Viagem disney.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\obj\Debug\net5.0\014 - Viagem disney.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\obj\Debug\net5.0\014 - Viagem disney.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\obj\Debug\net5.0\014 - Viagem disney.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\obj\Debug\net5.0\014 - Viagem disney.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\obj\Debug\net5.0\refint\014 - Viagem disney.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\obj\Debug\net5.0\014 - Viagem disney.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\obj\Debug\net5.0\014 - Viagem disney.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\014 - Viagem disney\014 - Viagem disney\obj\Debug\net5.0\ref\014 - Viagem disney.dll

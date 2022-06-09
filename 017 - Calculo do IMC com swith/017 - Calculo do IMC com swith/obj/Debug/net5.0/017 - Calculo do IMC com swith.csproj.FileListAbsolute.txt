@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\bin\Debug\net5.0\017 - Calculo do IMC com swith.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\bin\Debug\net5.0\017 - Calculo do IMC com swith.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\bin\Debug\net5.0\017 - Calculo do IMC com swith.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\bin\Debug\net5.0\017 - Calculo do IMC com swith.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\bin\Debug\net5.0\017 - Calculo do IMC com swith.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\bin\Debug\net5.0\017 - Calculo do IMC com swith.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\obj\Debug\net5.0\017 - Calculo do IMC com swith.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\obj\Debug\net5.0\017 - Calculo do IMC com swith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\obj\Debug\net5.0\017 - Calculo do IMC com swith.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\obj\Debug\net5.0\017 - Calculo do IMC com swith.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\obj\Debug\net5.0\017 - Calculo do IMC com swith.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\obj\Debug\net5.0\017 - Calculo do IMC com swith.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\obj\Debug\net5.0\refint\017 - Calculo do IMC com swith.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\obj\Debug\net5.0\017 - Calculo do IMC com swith.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\obj\Debug\net5.0\017 - Calculo do IMC com swith.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\017 - Calculo do IMC com swith\017 - Calculo do IMC com swith\obj\Debug\net5.0\ref\017 - Calculo do IMC com swith.dll

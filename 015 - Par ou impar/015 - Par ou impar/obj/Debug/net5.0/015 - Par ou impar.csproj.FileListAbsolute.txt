@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\bin\Debug\net5.0\015 - Par ou impar.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\bin\Debug\net5.0\015 - Par ou impar.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\bin\Debug\net5.0\015 - Par ou impar.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\bin\Debug\net5.0\015 - Par ou impar.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\bin\Debug\net5.0\015 - Par ou impar.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\bin\Debug\net5.0\015 - Par ou impar.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\obj\Debug\net5.0\015 - Par ou impar.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\obj\Debug\net5.0\015 - Par ou impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\obj\Debug\net5.0\015 - Par ou impar.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\obj\Debug\net5.0\015 - Par ou impar.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\obj\Debug\net5.0\015 - Par ou impar.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\obj\Debug\net5.0\015 - Par ou impar.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\obj\Debug\net5.0\refint\015 - Par ou impar.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\obj\Debug\net5.0\015 - Par ou impar.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\obj\Debug\net5.0\015 - Par ou impar.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\015 - Par ou impar\015 - Par ou impar\obj\Debug\net5.0\ref\015 - Par ou impar.dll

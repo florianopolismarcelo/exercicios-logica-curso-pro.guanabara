@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\bin\Debug\net5.0\016 - Calculo do IMC.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\bin\Debug\net5.0\016 - Calculo do IMC.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\bin\Debug\net5.0\016 - Calculo do IMC.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\bin\Debug\net5.0\016 - Calculo do IMC.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\bin\Debug\net5.0\016 - Calculo do IMC.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\bin\Debug\net5.0\016 - Calculo do IMC.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\obj\Debug\net5.0\016 - Calculo do IMC.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\obj\Debug\net5.0\016 - Calculo do IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\obj\Debug\net5.0\016 - Calculo do IMC.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\obj\Debug\net5.0\016 - Calculo do IMC.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\obj\Debug\net5.0\016 - Calculo do IMC.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\obj\Debug\net5.0\016 - Calculo do IMC.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\obj\Debug\net5.0\refint\016 - Calculo do IMC.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\obj\Debug\net5.0\016 - Calculo do IMC.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\obj\Debug\net5.0\016 - Calculo do IMC.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\016 - Calculo do IMC\016 - Calculo do IMC\obj\Debug\net5.0\ref\016 - Calculo do IMC.dll
