@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\bin\Debug\net5.0\022 - Dependente funcionario com if.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\bin\Debug\net5.0\022 - Dependente funcionario com if.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\bin\Debug\net5.0\022 - Dependente funcionario com if.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\bin\Debug\net5.0\022 - Dependente funcionario com if.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\bin\Debug\net5.0\022 - Dependente funcionario com if.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\bin\Debug\net5.0\022 - Dependente funcionario com if.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\obj\Debug\net5.0\022 - Dependente funcionario com if.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\obj\Debug\net5.0\022 - Dependente funcionario com if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\obj\Debug\net5.0\022 - Dependente funcionario com if.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\obj\Debug\net5.0\022 - Dependente funcionario com if.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\obj\Debug\net5.0\022 - Dependente funcionario com if.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\obj\Debug\net5.0\022 - Dependente funcionario com if.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\obj\Debug\net5.0\refint\022 - Dependente funcionario com if.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\obj\Debug\net5.0\022 - Dependente funcionario com if.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\obj\Debug\net5.0\022 - Dependente funcionario com if.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\022 - Dependente funcionario com if\022 - Dependente funcionario com if\obj\Debug\net5.0\ref\022 - Dependente funcionario com if.dll

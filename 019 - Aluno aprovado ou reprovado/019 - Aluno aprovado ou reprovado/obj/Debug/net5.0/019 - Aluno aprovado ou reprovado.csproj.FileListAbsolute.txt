@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\bin\Debug\net5.0\019 - Aluno aprovado ou reprovado.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\bin\Debug\net5.0\019 - Aluno aprovado ou reprovado.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\bin\Debug\net5.0\019 - Aluno aprovado ou reprovado.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\bin\Debug\net5.0\019 - Aluno aprovado ou reprovado.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\bin\Debug\net5.0\019 - Aluno aprovado ou reprovado.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\bin\Debug\net5.0\019 - Aluno aprovado ou reprovado.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\obj\Debug\net5.0\019 - Aluno aprovado ou reprovado.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\obj\Debug\net5.0\019 - Aluno aprovado ou reprovado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\obj\Debug\net5.0\019 - Aluno aprovado ou reprovado.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\obj\Debug\net5.0\019 - Aluno aprovado ou reprovado.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\obj\Debug\net5.0\019 - Aluno aprovado ou reprovado.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\obj\Debug\net5.0\019 - Aluno aprovado ou reprovado.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\obj\Debug\net5.0\refint\019 - Aluno aprovado ou reprovado.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\obj\Debug\net5.0\019 - Aluno aprovado ou reprovado.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\obj\Debug\net5.0\019 - Aluno aprovado ou reprovado.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\019 - Aluno aprovado ou reprovado\019 - Aluno aprovado ou reprovado\obj\Debug\net5.0\ref\019 - Aluno aprovado ou reprovado.dll

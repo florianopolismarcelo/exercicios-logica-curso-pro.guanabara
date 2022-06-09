@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\bin\Debug\net5.0\018 - Esta apto a dirigir.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\bin\Debug\net5.0\018 - Esta apto a dirigir.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\bin\Debug\net5.0\018 - Esta apto a dirigir.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\bin\Debug\net5.0\018 - Esta apto a dirigir.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\bin\Debug\net5.0\018 - Esta apto a dirigir.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\bin\Debug\net5.0\018 - Esta apto a dirigir.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\obj\Debug\net5.0\018 - Esta apto a dirigir.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\obj\Debug\net5.0\018 - Esta apto a dirigir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\obj\Debug\net5.0\018 - Esta apto a dirigir.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\obj\Debug\net5.0\018 - Esta apto a dirigir.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\obj\Debug\net5.0\018 - Esta apto a dirigir.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\obj\Debug\net5.0\018 - Esta apto a dirigir.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\obj\Debug\net5.0\refint\018 - Esta apto a dirigir.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\obj\Debug\net5.0\018 - Esta apto a dirigir.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\obj\Debug\net5.0\018 - Esta apto a dirigir.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\018 - Esta apto a dirigir\018 - Esta apto a dirigir\obj\Debug\net5.0\ref\018 - Esta apto a dirigir.dll

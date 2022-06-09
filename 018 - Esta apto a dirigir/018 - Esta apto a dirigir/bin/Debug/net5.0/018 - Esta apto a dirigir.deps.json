@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "018 - Esta apto a dirigir/1.0.0": {
+        "runtime": {
+          "018 - Esta apto a dirigir.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "018 - Esta apto a dirigir/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

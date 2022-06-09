@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "020 - Criança esperança com if/1.0.0": {
+        "runtime": {
+          "020 - Criança esperança com if.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "020 - Criança esperança com if/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
