@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\bin\Debug\net5.0\029 - Conte ate quiser com while.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\bin\Debug\net5.0\029 - Conte ate quiser com while.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\bin\Debug\net5.0\029 - Conte ate quiser com while.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\bin\Debug\net5.0\029 - Conte ate quiser com while.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\bin\Debug\net5.0\029 - Conte ate quiser com while.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\bin\Debug\net5.0\029 - Conte ate quiser com while.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\obj\Debug\net5.0\029 - Conte ate quiser com while.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\obj\Debug\net5.0\029 - Conte ate quiser com while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\obj\Debug\net5.0\029 - Conte ate quiser com while.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\obj\Debug\net5.0\029 - Conte ate quiser com while.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\obj\Debug\net5.0\029 - Conte ate quiser com while.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\obj\Debug\net5.0\029 - Conte ate quiser com while.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\obj\Debug\net5.0\refint\029 - Conte ate quiser com while.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\obj\Debug\net5.0\029 - Conte ate quiser com while.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\obj\Debug\net5.0\029 - Conte ate quiser com while.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\029 - Conte ate quiser com while\029 - Conte ate quiser com while\obj\Debug\net5.0\ref\029 - Conte ate quiser com while.dll

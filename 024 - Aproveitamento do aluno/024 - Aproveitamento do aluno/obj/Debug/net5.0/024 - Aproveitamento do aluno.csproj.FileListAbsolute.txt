@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\bin\Debug\net5.0\024 - Aproveitamento do aluno.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\bin\Debug\net5.0\024 - Aproveitamento do aluno.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\bin\Debug\net5.0\024 - Aproveitamento do aluno.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\bin\Debug\net5.0\024 - Aproveitamento do aluno.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\bin\Debug\net5.0\024 - Aproveitamento do aluno.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\bin\Debug\net5.0\024 - Aproveitamento do aluno.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\obj\Debug\net5.0\024 - Aproveitamento do aluno.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\obj\Debug\net5.0\024 - Aproveitamento do aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\obj\Debug\net5.0\024 - Aproveitamento do aluno.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\obj\Debug\net5.0\024 - Aproveitamento do aluno.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\obj\Debug\net5.0\024 - Aproveitamento do aluno.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\obj\Debug\net5.0\024 - Aproveitamento do aluno.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\obj\Debug\net5.0\refint\024 - Aproveitamento do aluno.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\obj\Debug\net5.0\024 - Aproveitamento do aluno.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\obj\Debug\net5.0\024 - Aproveitamento do aluno.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\024 - Aproveitamento do aluno\024 - Aproveitamento do aluno\obj\Debug\net5.0\ref\024 - Aproveitamento do aluno.dll

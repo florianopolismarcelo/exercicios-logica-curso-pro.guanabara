@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\bin\Debug\net5.0\028 - Conte ate quiser com for.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\bin\Debug\net5.0\028 - Conte ate quiser com for.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\bin\Debug\net5.0\028 - Conte ate quiser com for.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\bin\Debug\net5.0\028 - Conte ate quiser com for.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\bin\Debug\net5.0\028 - Conte ate quiser com for.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\bin\Debug\net5.0\028 - Conte ate quiser com for.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\obj\Debug\net5.0\028 - Conte ate quiser com for.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\obj\Debug\net5.0\028 - Conte ate quiser com for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\obj\Debug\net5.0\028 - Conte ate quiser com for.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\obj\Debug\net5.0\028 - Conte ate quiser com for.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\obj\Debug\net5.0\028 - Conte ate quiser com for.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\obj\Debug\net5.0\028 - Conte ate quiser com for.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\obj\Debug\net5.0\refint\028 - Conte ate quiser com for.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\obj\Debug\net5.0\028 - Conte ate quiser com for.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\obj\Debug\net5.0\028 - Conte ate quiser com for.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\028 - Conte ate quiser com for\028 - Conte ate quiser com for\obj\Debug\net5.0\ref\028 - Conte ate quiser com for.dll

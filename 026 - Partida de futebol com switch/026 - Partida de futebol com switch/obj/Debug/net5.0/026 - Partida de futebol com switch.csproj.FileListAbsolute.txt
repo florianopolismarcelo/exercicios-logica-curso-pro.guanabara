@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\bin\Debug\net5.0\026 - Partida de futebol com switch.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\bin\Debug\net5.0\026 - Partida de futebol com switch.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\bin\Debug\net5.0\026 - Partida de futebol com switch.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\bin\Debug\net5.0\026 - Partida de futebol com switch.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\bin\Debug\net5.0\026 - Partida de futebol com switch.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\bin\Debug\net5.0\026 - Partida de futebol com switch.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\obj\Debug\net5.0\026 - Partida de futebol com switch.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\obj\Debug\net5.0\026 - Partida de futebol com switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\obj\Debug\net5.0\026 - Partida de futebol com switch.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\obj\Debug\net5.0\026 - Partida de futebol com switch.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\obj\Debug\net5.0\026 - Partida de futebol com switch.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\obj\Debug\net5.0\026 - Partida de futebol com switch.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\obj\Debug\net5.0\refint\026 - Partida de futebol com switch.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\obj\Debug\net5.0\026 - Partida de futebol com switch.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\obj\Debug\net5.0\026 - Partida de futebol com switch.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\026 - Partida de futebol com switch\026 - Partida de futebol com switch\obj\Debug\net5.0\ref\026 - Partida de futebol com switch.dll

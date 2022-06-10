@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "026 - Partida de futebol com switch/1.0.0": {
+        "runtime": {
+          "026 - Partida de futebol com switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "026 - Partida de futebol com switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

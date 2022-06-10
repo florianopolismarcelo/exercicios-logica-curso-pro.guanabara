@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "025 - Partida de futebol com if/1.0.0": {
+        "runtime": {
+          "025 - Partida de futebol com if.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "025 - Partida de futebol com if/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
