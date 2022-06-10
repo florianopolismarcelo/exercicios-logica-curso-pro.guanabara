@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "032 - Soma dos numeros mostra o maior/1.0.0": {
+        "runtime": {
+          "032 - Soma dos numeros mostra o maior.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "032 - Soma dos numeros mostra o maior/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

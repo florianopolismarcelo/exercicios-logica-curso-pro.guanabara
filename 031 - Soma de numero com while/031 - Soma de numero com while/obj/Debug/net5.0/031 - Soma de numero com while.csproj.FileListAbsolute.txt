@@ -1,0 +1,16 @@
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\bin\Debug\net5.0\031 - Soma de numero com while.exe
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\bin\Debug\net5.0\031 - Soma de numero com while.deps.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\bin\Debug\net5.0\031 - Soma de numero com while.runtimeconfig.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\bin\Debug\net5.0\031 - Soma de numero com while.runtimeconfig.dev.json
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\bin\Debug\net5.0\031 - Soma de numero com while.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\bin\Debug\net5.0\031 - Soma de numero com while.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\obj\Debug\net5.0\031 - Soma de numero com while.csproj.AssemblyReference.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\obj\Debug\net5.0\031 - Soma de numero com while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\obj\Debug\net5.0\031 - Soma de numero com while.AssemblyInfoInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\obj\Debug\net5.0\031 - Soma de numero com while.AssemblyInfo.cs
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\obj\Debug\net5.0\031 - Soma de numero com while.csproj.CoreCompileInputs.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\obj\Debug\net5.0\031 - Soma de numero com while.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\obj\Debug\net5.0\refint\031 - Soma de numero com while.dll
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\obj\Debug\net5.0\031 - Soma de numero com while.pdb
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\obj\Debug\net5.0\031 - Soma de numero com while.genruntimeconfig.cache
+C:\Users\flori\source\repos\Exercicios-logica-curso-pro.guanabara\031 - Soma de numero com while\031 - Soma de numero com while\obj\Debug\net5.0\ref\031 - Soma de numero com while.dll
